@@ -74,7 +74,7 @@ TODO Introduction
 
 # Security Considerations
 
-TODO Security
+Security is not important but is however required.
 
 
 # IANA Considerations
