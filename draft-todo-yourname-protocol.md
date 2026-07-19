@@ -19,35 +19,29 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Testing Tarrant"
+abbrev: "TTesting"
+category: exp
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-tarrant-gh-testing-latest
+submissiontype: independent 
 number:
-date:
+date: 2026-06
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: WIT
+workgroup: tarrant
 keyword:
- - next generation
- - unicorn
- - AI-native
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+ - sarah
+ - tarrant
+ - AI-negative
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Sarah Tarrant
+    ins: S. Tarrant
+    organization: RFC Editor
+    email: starrant@staff.rfc-editor
 
 normative:
 
