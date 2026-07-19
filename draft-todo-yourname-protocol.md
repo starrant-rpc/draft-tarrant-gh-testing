@@ -24,7 +24,7 @@ abbrev: "TTesting"
 category: exp
 
 docname: draft-tarrant-gh-testing-latest
-submissiontype: independent 
+submissiontype: IETF 
 number:
 date: 2026-06
 consensus: true
