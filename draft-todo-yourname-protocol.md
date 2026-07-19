@@ -29,25 +29,25 @@ number:
 date: 2026-06
 consensus: true
 v: 3
-area: WIT
-workgroup: tarrant
+# area: WIT
+# workgroup: tarrant
 keyword:
  - sarah
  - tarrant
  - AI-negative
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+# venue:
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+#  github: USER/REPO
+#  latest: https://example.com/LATEST
 
 author:
  -
     fullname: Sarah Tarrant
     ins: S. Tarrant
-    organization: RFC Editor
+#    organization: RFC Editor
     email: starrant@staff.rfc-editor
 
 normative:
