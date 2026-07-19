@@ -13,7 +13,7 @@ Expires: 1 January 2027
 
 Abstract
 
-   TODO Abstract
+   This is the abstraction of ideas for non-AI tarrant testing.
 
 Status of This Memo
 
