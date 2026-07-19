@@ -58,8 +58,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
-
+This is the abstraction of ideas for non-AI tarrant testing.
 
 --- middle
 
